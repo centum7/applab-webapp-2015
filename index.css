@@ -1,5 +1,16 @@
-body {
-	width: 100%;
+/*body {
 	border: 1px solid #0000;
 	color:red;
+}*/
+
+.container {
+	/*margin: auto;
+	width: 80%;*/
+
+}
+
+
+.logo {
+	margin: auto
+		/*text-align: center;*/
 }
